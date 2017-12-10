@@ -24,6 +24,7 @@
 | Criteria                                  | Details                   |
 | ----------------------------------------- | ------------------------- |
 | [Components](/criteria/components.md)     | [view](/react/components) |
+| [i18n](/criteria/i18n.md)                 | [view](/react/i18n)       |
 | [Language](/criteria/languages.md)        | [view](/react/languages)  |
 | [License](/criteria/licensing.md)         | [view](/react/licensing)  |
 | [Server Side Rendering](/criteria/ssr.md) | [view](/react/ssr)        |
